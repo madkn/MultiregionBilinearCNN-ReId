@@ -1,12 +1,14 @@
 # MultiregionBilinearCNN-ReId
 
+This is the code used for the paper "Multi-region Bilinear Convolutional Neural Networks for Person Re-Identification".
 
-This is the caffe code and evaluation scripts for the paper "Multi-region Bilinear CNNs for Person Re-Identification" 
+The pre-trained models for re-identification will be here soon.
 
-## Citing this work 
-        @inproceedings{UstinovaAVSS17,  
-            Author = {Evgeniya Ustinova and Victor Lempitsky},  
-            Title = {Multi-region Bilinear CNNs for Person Re-Identification},  
-            Booktitle = {Advanced Signal and Video based Surveillance},  
-            Year = {2017}  
-        }
+## Citation
+
+    @inproceedings{ustinova2017,
+      Author = {E. Ustinova, Y. Ganin, V. Lempitsky},
+      Booktitle = {(AVSS 2017) 2017 14th IEEE International Conference on Advanced Video and Signal based Surveillance},
+      Title = {Multi-region Bilinear Convolutional Neural Networks for Person Re-Identification},
+      Year = {2017}
+    }
