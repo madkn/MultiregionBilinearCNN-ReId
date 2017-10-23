@@ -1,8 +1,8 @@
 # MultiregionBilinearCNN-ReId
 
-This is the code used for the paper "Multi-region Bilinear Convolutional Neural Networks for Person Re-Identification".
+This is the caffe code and pre-trained models used for the paper "Multi-region Bilinear Convolutional Neural Networks for Person Re-Identification".
 
-The pre-trained models for re-identification will be here soon.
+
 
 ## Citation
 
